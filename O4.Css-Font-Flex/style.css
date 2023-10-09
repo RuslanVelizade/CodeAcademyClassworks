@@ -1,0 +1,193 @@
+* {
+  margin: 3px;
+}
+.head1 {
+  margin: 30 30;
+  font-weight: 100;
+  font-size: 25px;
+  float: left;
+  text-transform: capitalize;
+  text-decoration: dashed;
+  font-family: "Courier New", Courier, monospace;
+  text-indent: 0%;
+  text-shadow: none;
+  color: rgb(89, 2, 177);
+}
+.head2 {
+  margin: 30 30;
+  font-weight: 80;
+  font-size: 20px;
+  float: left;
+  text-transform: capitalize;
+  text-decoration: dashed;
+  font-family: "Courier New", Courier, monospace;
+  text-indent: 0%;
+  text-shadow: none;
+  color: blueviolet;
+}
+.head3 {
+  margin: 30 30;
+  font-weight: 30;
+  font-size: 14px;
+  float: left;
+  text-transform: capitalize;
+  text-decoration: dashed;
+  font-family: "Courier New", Courier, monospace;
+  text-indent: 0%;
+  text-shadow: none;
+  color: black;
+}
+.head4 {
+  margin: 20;
+  font-weight: 30 30;
+  font-size: 20px;
+  float: left;
+  text-transform: capitalize;
+  text-decoration: dashed;
+  font-family: "Courier New", Courier, monospace;
+  text-indent: 0%;
+  text-shadow: none;
+  color: rgb(104, 55, 150);
+}
+.head5 {
+  margin: 30 30;
+  font-weight: 80;
+  font-size: 20px;
+  float: left;
+  text-transform: capitalize;
+  text-decoration: dashed;
+  font-family: "Courier New", Courier, monospace;
+  text-indent: 0%;
+  text-shadow: none;
+  margin: 20;
+  font-weight: 80;
+  font-size: 20px;
+  float: left;
+  text-transform: capitalize;
+  text-decoration: dashed;
+  font-family: "Courier New", Courier, monospace;
+  text-indent: 0%;
+  text-shadow: none;
+  color: rgb(40, 94, 40);
+  color: rgb(40, 94, 40);
+}
+.head6 {
+  margin: 30 30;
+  font-weight: 30;
+  font-size: 14px;
+  float: left;
+  text-transform: capitalize;
+  text-decoration: dashed;
+  font-family: "Courier New", Courier, monospace;
+  text-indent: 0%;
+  text-shadow: none;
+  color: black(40, 94, 40);
+}
+.head7 {
+  margin: 30 30;
+  font-weight: 80;
+  font-size: 20px;
+  float: left;
+  text-transform: capitalize;
+  text-decoration: dashed;
+  font-family: "Courier New", Courier, monospace;
+  text-indent: 0%;
+  text-shadow: none;
+  color: rgb(40, 94, 40);
+}
+.head8 {
+    margin: 20;
+    font-weight: 30;
+    font-size: 14px;
+    float: left;
+    text-transform: capitalize;
+    text-decoration: dashed;
+    font-family: 'Courier New', Courier, monospace;
+    text-indent: 0%;
+    text-shadow: none;
+    color: black(16, 68, 16);
+}
+.head9 {
+    margin: 20;
+    font-weight: 80;
+    font-size: 20px;
+    float: left;
+    text-transform: capitalize;
+    text-decoration: dashed;
+    font-family: 'Courier New', Courier, monospace;
+    text-indent: 0%;
+    text-shadow: none;
+    color: brown(40, 94, 40);
+}
+.head10 {
+    margin: 20;
+    font-weight: 20;
+    font-size: 14px;
+    float: left;
+    text-transform: capitalize;
+    text-decoration: dashed;
+    font-family: 'Courier New', Courier, monospace;
+    text-indent: 0%;
+    text-shadow: none;
+    color: black(40, 94, 40);
+}
+.head11 {
+    margin: 20;
+    font-weight: 70;
+    font-size: 18px;
+    float: left;
+    text-transform: capitalize;
+    text-decoration: dashed;
+    font-family: 'Courier New', Courier, monospace;
+    text-indent: 0%;
+    text-shadow: none;
+    color: brown(40, 94, 40);
+}
+.head12 {
+    margin: 20;
+    font-weight: 40;
+    font-size: 17px;
+    float: left;
+    text-transform: capitalize;
+    text-decoration: dashed;
+    font-family: 'Courier New', Courier, monospace;
+    text-indent: 0%;
+    text-shadow: none;
+    color:black(40, 94, 40);
+}
+.head13 {
+    margin: 20;
+    font-weight: 50;
+    font-size: 17px;
+    float: left;
+    text-transform: capitalize;
+    text-decoration: dashed;
+    font-family: 'Courier New', Courier, monospace;
+    text-indent: 0%;
+    text-shadow: none;
+    color: rgb(20, 216, 216) (40, 94, 40);
+}
+.head14 { margin: 20;
+font-weight: 80;
+font-size: 20px;
+float: left;
+text-transform: capitalize;
+text-decoration: dashed;
+font-family: 'Courier New', Courier, monospace;
+text-indent: 0%;
+text-shadow: none;
+color: rgb(40, 94, 40);
+
+}
+.head15 {
+    margin: 20;
+    font-weight: 80;
+    font-size: 20px;
+    float: left;
+    text-transform: capitalize;
+    text-decoration: dashed;
+    font-family: 'Courier New', Courier, monospace;
+    text-indent: 0%;
+    text-shadow: none;
+    color: rgb(40, 94, 40);
+}

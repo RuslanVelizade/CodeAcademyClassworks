@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.black {
+  background-color: black;
+  height: 30px;
+}
+
+#team {
+  margin: 60px 20px;
+  width: 30%;
+  display: flex;
+  justify-content: center;
+  background-color: rgb(129, 182, 164);
+  height: 160px;
+}
+
+.white {
+  justify-content: center;
+  background-color: rgb(209, 155, 191);
+  height: 30px;
+  width: 70%;
+  border-radius: auto;
+  margin: 30%;
+}

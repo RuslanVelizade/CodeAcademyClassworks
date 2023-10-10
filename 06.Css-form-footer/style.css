@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#container {
+    display: flex;
+    width: 100%;
+    background-color: rgb(236, 240, 243);
+    height: 500px;
+    margin: 4px 4px;
+    align-content: center;
+
+}
+.first {
+    display: flex;
+    color: rgb(92, 70, 28);
+    justify-content: left;
+    margin: 40px 70px;
+    padding: 40px;
+    align-items: space-around;
+}
+.Address {
+    color: rgb(107, 196, 24);
+}
+.second {
+    display: flex;
+    justify-content: right;
+    border-color: white;
+    align-items: space-around;
+    padding-top: 180px;
+    
+}
+.contact { 
+    display: flex;
+    justify-content: center;
+    color: rgb(23, 23, 88);
+}
+.name {
+
+    display: flex;
+    align-items: space-around;
+}
+.footer {
+    height: 100px;
+    background-color: rgb(107, 78, 58);
+}
+.text {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding-top: 40px;
+}

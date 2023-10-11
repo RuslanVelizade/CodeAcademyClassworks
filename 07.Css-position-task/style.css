@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    height: 250vh;
+}
+.container {
+    background-image: url("./gettyimages-1395722285.jpg");
+    background-position: center;
+    height: 60vh;
+}
+.header {
+    display: flex;
+    justify-content: space-around;
+    padding: 4rem;
+    background-color: black;
+    color: white;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+.last {
+    width: 100%;
+    background-color: rgb(102, 219, 180);
+    height: 100%;
+}
+.last .blue {
+   position: relative;
+   top: 100px;
+   background-color: blue;
+   height: 10%;
+
+}

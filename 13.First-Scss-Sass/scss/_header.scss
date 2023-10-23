@@ -1,0 +1,31 @@
+header {
+  background-color: black;
+  color: white;
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    .header {
+      .logo {
+        @include flexBox(space-between, center);
+        nav {
+          ul {
+            @include flexBox(space-between, center);
+            gap: 20px;
+            li {
+              color: white;
+              
+
+              &:hover {
+                color: red;
+                cursor: pointer;
+              }
+            }
+          }
+        }
+        button {
+            color: #02E4C0;
+        }
+      }
+    }
+  }
+}

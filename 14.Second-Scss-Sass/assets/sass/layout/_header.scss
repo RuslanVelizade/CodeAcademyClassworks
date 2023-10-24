@@ -1,0 +1,15 @@
+
+.header {
+    @include flexBox(space-between, center);
+    nav {
+        ul{
+            li {
+                column-gap: 15px;
+                text-decoration: none;g
+            }
+        }
+    }
+
+ 
+}
+}

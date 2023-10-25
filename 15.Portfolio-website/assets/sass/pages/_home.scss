@@ -1,0 +1,34 @@
+#second {
+  @include port(center, center);
+  background-color: #fdf0e9;
+
+  .container {
+    .show {
+      @include port(space-between, center);
+      flex-direction: row;
+      width: 100%;
+      nav {
+        ul {
+          list-style: $list-style;
+          li {
+            a {
+              text-decoration: $text-decoration;
+            }
+          }
+        }
+      }
+    }
+    .boxes {
+      @include port(space-around, center);
+      flex-direction: row;
+      flex-wrap: wrap;
+      .box {
+        position: relative;
+        left: 10%;
+        bottom: 10%;
+        width: 30%;
+        background-image: url("");
+      }
+    }
+  }
+}

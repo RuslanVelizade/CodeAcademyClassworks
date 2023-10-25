@@ -1,0 +1,56 @@
+#first {
+    background-color: #28293E;
+    row-gap: 200px;
+
+
+
+.header {
+    @include port(space-between, center);
+    padding: 20px 0;
+    nav{
+       
+        ul {
+            @include port(space-between, center);
+            column-gap: 100px;
+            list-style: $list-style;
+            li{
+                a{
+                    text-decoration: $text-decoration;
+                    color: $text-color;
+            
+
+                }
+            }
+        }
+    }
+    button {
+        @include port(center, center);
+        color: $text-color;
+        width: 68px;
+        height: 14px;
+        border: 1px solid $text-color;
+        border-radius: 3px;
+        padding: 10px 15px;
+        background-color: transparent;
+    }
+}
+    .agency {
+        width: 100%;
+        flex-direction: column;
+        @include port(center, center);
+h1 {
+
+    color: $text-color;
+    font-size: 72px;
+}
+
+.p-1 {
+    max-width: 30%;
+    flex-wrap: wrap;
+    p {
+        color: $text-color;
+    }
+}
+    }
+
+}
